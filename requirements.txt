@@ -1,4 +1,4 @@
-nginx~=1.23.0
 gunicorn
 flask
 werkzeug
+nginx~=1.23.0
